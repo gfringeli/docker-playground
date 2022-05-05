@@ -1,3 +1,3 @@
 FROM ubuntu:trusty
 
-RUN mkdir dummy
+RUN mkdir other_dummy
